@@ -1,6 +1,6 @@
+
 import requests
 import datetime
-token = '456772539:AAFlQa-drrGcM9xLtlqosamzOmfGUWAnZeY'
 url = "https://api.telegram.org/bot456772539:AAFlQa-drrGcM9xLtlqosamzOmfGUWAnZeY/"
 
 
