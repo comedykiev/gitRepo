@@ -1,4 +1,3 @@
-'''
 import requests
 import datetime
 url = "https://api.telegram.org/bot456772539:AAFlQa-drrGcM9xLtlqosamzOmfGUWAnZeY/"
@@ -72,5 +71,3 @@ if __name__ == '__main__':
         main()
     except KeyboardInterrupt:
         exit()
-'''
-print('hello')
