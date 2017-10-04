@@ -1,7 +1,7 @@
 import requests
 import datetime
 url = "https://api.telegram.org/bot456772539:AAFlQa-drrGcM9xLtlqosamzOmfGUWAnZeY/"
-
+token = '456772539:AAFlQa-drrGcM9xLtlqosamzOmfGUWAnZeY'
 
 class BotHandler:
 
